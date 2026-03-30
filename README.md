@@ -1,16 +1,56 @@
-# React + Vite
+# 🌤 Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/React-18-blue?logo=react" />`{=html}
+`<img src="https://img.shields.io/badge/Redux-Toolkit-purple?logo=redux" />`{=html}
+`<img src="https://img.shields.io/badge/Vite-Fast-yellow?logo=vite" />`{=html}
+`<img src="https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel" />`{=html}
+```{=html}
+</p>
+```
+## 🚀 Live Demo
 
-Currently, two official plugins are available:
+👉 https://vercel.com/projjal2002-9212s-projects/weather-app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+    - 🌍 Search weather by city
+    - 📍 Auto-detect current location
+    - 🌡 Real-time weather data
+    - 📊 Daily & hourly temperature charts
+    - 🌙 Dark / Light mode
+    - 🎨 Glassmorphism UI
+    - ⚡ Debounced search\
+    - 🧠 Redux Toolkit state management\
+    - 🚀 Deployed on Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+    - React (Vite)
+    - Redux Toolkit
+    - Open-Meteo API
+    - Recharts
+    - CSS
+    - Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Installation
+
+    git clone https://github.com/Prorick44/weather-app.git
+    cd weather-app
+    npm install
+    npm run dev
+
+## 🏗 Build
+
+    npm run build
+    npm run preview
+
+## 👨‍💻 Author
+
+**Projjal Paul**
+
+## ⭐ Support
+
+If you like this project, star the repo!
